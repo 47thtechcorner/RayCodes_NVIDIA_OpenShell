@@ -1,0 +1,12 @@
+assets/
+inputs/
+outputs/
+policies/
+tests/
+__pycache__/
+*.pyc
+.pytest_cache/
+.deepeval/
+.venv/
+venv/
+*.egg-info/
